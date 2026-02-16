@@ -1,0 +1,14 @@
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\bin\Debug\net9.0\001 Coursework.exe
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\bin\Debug\net9.0\001 Coursework.deps.json
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\bin\Debug\net9.0\001 Coursework.runtimeconfig.json
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\bin\Debug\net9.0\001 Coursework.dll
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\bin\Debug\net9.0\001 Coursework.pdb
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\001 Coursework.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\001 Coursework.AssemblyInfoInputs.cache
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\001 Coursework.AssemblyInfo.cs
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\001 Coursework.csproj.CoreCompileInputs.cache
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\001 Coursework.dll
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\refint\001 Coursework.dll
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\001 Coursework.pdb
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\001 Coursework.genruntimeconfig.cache
+c:\Users\nasel\Documents\University Computer Science\1) PROJECTS\Programming for CS Project- Nassim El-Hallaoui\001 Coursework\001 Coursework\obj\Debug\net9.0\ref\001 Coursework.dll
